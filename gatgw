@@ -325,26 +325,94 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 ,新华社CNC英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 ,日本CGNTV
+#EXTINF:-1 ,日本 | CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
-#EXTINF:-1 ,日本NHK华语
+#EXTINF:-1 ,日本 | NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,日本NHK华语
+#EXTINF:-1 ,日本 | NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-#EXTINF:-1 ,日本新闻24
+#EXTINF:-1 ,日本 | 新闻24
 http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 ,日本新闻24
+#EXTINF:-1 ,日本 | 新闻24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 ,日本新闻24
+#EXTINF:-1 ,日本 | 新闻24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 ,日本ChannelDX
+#EXTINF:-1 ,日本 | ChannelDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 ,日本QVC Japan
+#EXTINF:-1 ,日本 | QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 ,日本声优广播
+#EXTINF:-1 ,日本 | 声优广播
 http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-#EXTINF:-1 ,日本宝石GSTV
+#EXTINF:-1 ,日本 | 宝石GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist_w1860888413_b600000.m3u8
+#EXTINF:-1 ,日本 | 曼迪日本
+http://f18.pp18000.com/live/316/de06c12931fc1fa6b0beb7edf58cca5d/index.m3u8
+#EXTINF:-1 ,日本 | JapaNews24
+http://f21.ub1200.com/live/1043/e39fec33d23203ad16395ccae719c0dd/index.m3u8
+#EXTINF:-1 ,日本 | NTV News24
+http://f21.ub1200.com/live/42/0f5076bba610b93a14954c538651780d/index.m3u8
+#EXTINF:-1 ,日本 | BSテレビ東京
+http://f21.ub1200.com/live/243/14e4d8d3dffcbfb774b160c27aefc0ca/index.m3u8
+#EXTINF:-1 ,日本 | 時代劇の専門家
+http://f21.ub1200.com/live/287/0c290a32e0f3232ad11a9941c7fdf0c1/index.m3u8
+#EXTINF:-1 ,日本 | テレビ朝日
+http://f21.ub1200.com/live/237/82a94480966d1b05173f90c10edbe0a0/index.m3u8
+#EXTINF:-1 ,日本 | SKY A
+http://f21.ub1200.com/live/247/9677c2e9ccca9ad74395bb2fc5449824/index.m3u8
+#EXTINF:-1 ,日本 | 読売テレビ
+http://f21.ub1200.com/live/198/2f32c9bcb68926ac7ec5ea4076a3d303/index.m3u8
+#EXTINF:-1 ,日本 | 毎日放送
+http://f21.ub1200.com/live/199/55efbe8e354effcbd2bf9c1da9903696/index.m3u8
+#EXTINF:-1 ,日本 | FU JI
+http://f21.ub1200.com/live/122/3ba43b700ec237ad231196907b05ea80/index.m3u8
+#EXTINF:-1 ,日本 | NHK World
+http://f21.ub1200.com/live/117/849142aee88c9f49e8e3e013bcbb69cc/index.m3u8
+#EXTINF:-1 ,日本 | 旅チャンネル
+http://f21.ub1200.com/live/292/b04289cd71031fd0b556125cd0aa7b44/index.m3u8
+#EXTINF:-1 ,日本 | NTV
+http://f21.ub1200.com/live/119/15ca618cafa8512ba72ef557d8a6c2b3/index.m3u8
+#EXTINF:-1 ,日本 | サンテレビ
+http://f21.ub1200.com/live/238/bd6c12886f8b8a61214f3f0e64911dfe/index.m3u8
+#EXTINF:-1 ,日本 | BSプレミアム
+http://f21.ub1200.com/live/239/1ea898244156a992cf5373915f4c5a85/index.m3u8
+#EXTINF:-1 ,日本 | BS日テレ
+http://f21.ub1200.com/live/240/ed81cb824ac8ff89a284055cea0b155a/index.m3u8
+#EXTINF:-1 ,日本 | BS朝日
+http://f21.ub1200.com/live/241/7df596df39e7a167100ab1424cf4b112/index.m3u8
+#EXTINF:-1 ,日本 | 関西テレビ
+http://f21.ub1200.com/live/235/24a216efd0db0f449a5e4f659aae0d1e/index.m3u8
+#EXTINF:-1 ,日本 | BS-TBS
+http://f21.ub1200.com/live/242/0042ce73133dbefa3bf34cdd2d861f6b/index.m3u8
+#EXTINF:-1 ,日本 | Golf Network
+http://f21.ub1200.com/live/249/4ee4219742ca7141393cbea81c059362/index.m3u8
+#EXTINF:-1 ,日本 | BS-FUJI
+http://f21.ub1200.com/live/244/900f7b7a6776178fcc962cff543a1f6f/index.m3u8
+#EXTINF:-1 ,日本 | HTB北海道
+http://f21.ub1200.com/live/39/7063b47db13ec06edb785ef9765faae0/index.m3u8
+#EXTINF:-1 ,日本 | GaoRa
+http://f21.ub1200.com/live/296/cfc412ba214704636d0d286708da8c8e/index.m3u8
+#EXTINF:-1 ,日本 | NHKE
+http://f21.ub1200.com/live/120/003d400ac1eca609857f290a3241a1c0/index.m3u8
+#EXTINF:-1 ,日本 | NHK-G
+http://f21.ub1200.com/live/121/096a41036e9937f0fdd46c12acfab941/index.m3u8
+#EXTINF:-1 ,日本 | TV Tokyo
+http://f21.ub1200.com/live/123/6590029f4ced83105d9d05c850ecf5c1/index.m3u8
+#EXTINF:-1 ,日本 | TBS
+http://f21.ub1200.com/live/124/8bd4441501efcddb0e8d9e1e09b91d4e/index.m3u8
+#EXTINF:-1 ,日本 | 大阪TV
+http://f21.ub1200.com/live/126/e37c3a5ab6e042a21703ecb6dee9b336/index.m3u8
+#EXTINF:-1 ,日本 | ABC朝日
+http://f21.ub1200.com/live/127/51c964fc52d011de2711cdafb67970ec/index.m3u8
+#EXTINF:-1 ,日本 | NHK BS1
+http://f21.ub1200.com/live/128/7f5fa252714209403b0a4554ebe6b31b/index.m3u8
+#EXTINF:-1 ,日本 | jsport1
+http://f21.ub1200.com/live/129/da58c5898bc1eae60545278ca3cbbcfa/index.m3u8
+#EXTINF:-1 ,日本 | jsport2
+http://f21.ub1200.com/live/130/7da94ddda4ffe222abe55e1c7fbf866a/index.m3u8
+#EXTINF:-1 ,日本 | jsport3
+http://f21.ub1200.com/live/131/3ad801ee71c79ad20c1435fb9065897b/index.m3u8
+#EXTINF:-1 ,日本 | jsport4
+http://f21.ub1200.com/live/132/329f1b1b326955ca1983108a69cc417a/index.m3u8
 #EXTINF:-1 ,韩国KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 ,韩国KTV
