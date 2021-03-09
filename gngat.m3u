@@ -151,26 +151,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 ,CCTV17
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
-#EXTINF:-1 ,CCTV卫生健康
-http://125.210.152.18:9090/live/WSJK.m3u8
-#EXTINF:-1 ,CCTV风云音乐
-http://125.210.152.18:9090/live/FYYY.m3u8
-#EXTINF:-1 ,CCTV央视文化精品
-http://125.210.152.18:9090/live/YSWHJP.m3u8
-#EXTINF:-1 ,CCTV怀旧剧场
-http://125.210.152.18:9090/live/HJJC.m3u8
-#EXTINF:-1 ,CCTV高尔夫网球
-http://125.210.152.18:9090/live/GEFWQ.m3u8
-#EXTINF:-1 ,CCTV风云剧场
-http://125.210.152.18:9090/live/FYJC.m3u8
-#EXTINF:-1 ,CCTV第一剧场
-http://125.210.152.18:9090/live/DYJC.m3u8
-#EXTINF:-1 ,CCTV世界地理
-http://125.210.152.18:9090/live/SJDL.m3u8
-#EXTINF:-1 ,CCTV发现之旅
-http://125.210.152.18:9090/live/FXZL.m3u8
-#EXTINF:-1 ,CCTV女性时尚
-http://125.210.152.18:9090/live/NXSS.m3u8
 #EXTINF:-1 ,新华社CNC中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 ,新华社CNC英文
